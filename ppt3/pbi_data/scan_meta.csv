@@ -1,0 +1,2 @@
+cz,cy,cx,cz_mm,cy_mm,cx_mm,tumour_voxels,tumour_volume_ml,scan_voxels,scan_mm3,scan_mb_16bit,tumour_volume_min_ml,tumour_volume_max_ml,best_threshold,best_dice
+28,40,42,112.0,120.0,126.0,464,16.704,196608,7077888.0,0.375,6.12,19.26,50,0.9935344827586207
