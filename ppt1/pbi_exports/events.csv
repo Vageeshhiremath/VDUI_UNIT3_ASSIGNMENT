@@ -1,0 +1,6 @@
+event,kind,start_s,end_s
+Standing,person_state,68.7,78.1
+Running,person_state,78.6,86.0
+Audio > -20 dB,audio,75.0,75.0
+Brightness jump,lighting,100.0,100.0
+Mystery bang,audio,75.0,75.0
